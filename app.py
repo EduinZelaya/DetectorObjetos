@@ -4,7 +4,7 @@ from streamlit_webrtc import VideoProcessorBase, webrtc_streamer
 from ultralytics import YOLO
 
 st.set_page_config(page_title="Detección en Tiempo Real con YOLO", layout="centered")
-st.title("🛸 Detección de Objetos en Tiempo Real con YOLO")
+st.title("🛸 Detección de Objetos en Tiempo Real con YOLO, Eduin Zelaya UNAH-CURC")
 st.write("Permite el acceso a tu cámara para iniciar la detección de objetos con YOLO26.")
 
 
